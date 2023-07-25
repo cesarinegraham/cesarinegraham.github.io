@@ -1,5 +1,6 @@
 # Astrophysicist and Mathematician
 
+
 ## Education
 
 ### Michigan State University (3.94 GPA)
@@ -11,6 +12,7 @@ Transferred to MSU after 4 semesters
 
 ### Denbigh High School and Aviation Academy
 Advanced Diploma with Honors Distinction (4.47 GPA)
+
 
 ## Work Experiences
 
