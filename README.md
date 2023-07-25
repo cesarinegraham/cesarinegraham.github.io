@@ -1,7 +1,10 @@
 # Astrophysicist and Mathematician
 
 ### Education
-BS, Astrophysics with minor in Mathematics
+## Michigan State University
+BS, Astrophysics 
+Minor in Mathematics (3.94 GPA)
+ - transferred from Embry-Riddle Aeronautical University (4.0 GPA)
 
 ### Work Experiences
 asdfasdf
