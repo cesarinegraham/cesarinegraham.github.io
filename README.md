@@ -9,7 +9,7 @@
 <br />
 ## Work Experiences
 **Astrobiology Research Assistant (_October 2022 - Present_)**
- - Research assistant for Dr. Matthew Schrenk regarding Astrobiology. [Website](https://www.mattschrenklab.com/).
+ - Research assistant for Dr. Matthew Schrenk regarding Astrobiology. [Schrenk Lab Website](https://www.mattschrenklab.com/).
  - Integrating physics, mathematics, and computer science to model more accurate microbial habitability charts
 
 **MSU Summer Topology Internship (_May 2023 - July 2023_)**
@@ -18,7 +18,7 @@
 
 **NASA HUNCH Organization (_September 2018 - Present_)**
  - Member and co-organizer of the HUNCH program at Denbigh’s Aviation Academy. The team successfully manufactured storage lockers for the International Space Station.
- - [Website](https://www.13newsnow.com/article/entertainment/television/programs/daybreak/in-session-newport-news-students-construct-lockers-for-astronauts/291-87bcc798-570b-4aa5-9d59-959f01f18fac).
+ - [HUNCH News Article](https://www.13newsnow.com/article/entertainment/television/programs/daybreak/in-session-newport-news-students-construct-lockers-for-astronauts/291-87bcc798-570b-4aa5-9d59-959f01f18fac).
 
 **Mathematics and Physics Department Teaching Assistant (_August 2022 - Present_)**
  - Teaching assistant for College Algebra II and Physics I.
