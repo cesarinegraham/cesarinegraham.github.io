@@ -27,6 +27,6 @@
 
 <br />
 ## Current Projects
-Exotic Manifolds and their Connection to Superstring Theory | ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png)
-Kirby Calculus and Knot Theory | ![Knot Theory](/assets/knottheory.png)
+ - Exotic Manifolds and their Connection to Superstring Theory | ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png)
+ - Kirby Calculus and Knot Theory | ![Knot Theory](/assets/knottheory.png)
 
