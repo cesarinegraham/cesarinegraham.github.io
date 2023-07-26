@@ -9,7 +9,7 @@
 <br />
 ## Work Experiences
 **Astrobiology Research Assistant (_October 2022 - Present_)**
- - Research assistant in Astrobiology under [Dr. Matthew Schrenk](https://www.mattschrenklab.com/). 
+ - Research assistant in Astrobiology under [Dr. Matthew Schrenk](https://www.mattschrenklab.com). 
  - Integrating physics, mathematics, and computer science to model more accurate microbial habitability charts.
 
 **MSU Summer Topology Internship (_May 2023 - July 2023_)**
