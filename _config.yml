@@ -2,4 +2,7 @@ title: Cesarine Graham
 logo: /assets/img/headshot(1).jpg
 description: Hello! I'm Cesarine (Sez-A-Reen) and I am interested in theoretical physics / computational physics.
 show_downloads: true
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: jekyll-remote-theme
