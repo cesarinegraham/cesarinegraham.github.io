@@ -1,15 +1,10 @@
 # Astrophysicist and Mathematician
+#### Technical Skills: Python, MATLAB, Java, LaTeX, HTML, CSS
 
 <br />
 ## Education
-
-### Michigan State University (3.94 GPA)
-BS, Astrophysics 
-Minor in Mathematics 
-### Embry-Riddle Aeronautical University (4.0 GPA)
-Transferred to MSU after 4 semesters
-### Denbigh High School and Aviation Academy
-Advanced Diploma with Honors Distinction (4.47 GPA)
+- B.S., Astrophysics with Mathematics Minor| Michigan State University (_May 2024_)
+- HS Diploma, Advanced with Honors Distinction| Denbigh HS and Aviation Academy (_June 2020_)
 
 <br />
 ## Work Experiences
