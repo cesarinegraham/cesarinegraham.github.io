@@ -3,8 +3,8 @@
 
 <br />
 ## Education
-- B.S. | Astrophysics with Mathematics Minor (3.94 GPA) | Michigan State University (_May 2024_)
-- HS Diploma | Advanced with Honors Distinction (4.47 GPA) | Denbigh HS and Aviation Academy (_June 2020_)
+- B.S. Astrophysics with Mathematics Minor (3.94 GPA) | Michigan State University (_May 2024_)
+- HS Diploma Advanced with Honors Distinction (4.47 GPA) | Denbigh HS and Aviation Academy (_June 2020_)
 
 <br />
 ## Work Experiences
@@ -27,6 +27,6 @@
 
 <br />
 ## Current Projects
- - Exotic Manifolds and their Connection to Superstring Theory 
- - Kirby Calculus and Knot Theory
+ - Exotic Manifolds and their Connection to Superstring Theory![Calabi-Yau Manifolds](/assets/Calabi-Yau.png)
+ - Kirby Calculus and Knot Theory ![Knot Theory](/assets/knottheory.png)
 
