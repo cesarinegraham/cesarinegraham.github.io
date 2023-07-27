@@ -23,7 +23,7 @@
 
 <br />
 ## Current Projects
-
+'''
 <table>
     <thead>
         <tr>
@@ -44,3 +44,4 @@
         </tr>
     </tbody>
 </table>
+'''
