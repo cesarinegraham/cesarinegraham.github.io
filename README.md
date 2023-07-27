@@ -27,8 +27,9 @@
 ## Current Projects
 
 |-------|-------|
-| ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | Exotic Manifolds and their Connection to Superstring Theory [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
-| ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology|
+| | |
+|| ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | Exotic Manifolds and their Connection to Superstring Theory [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)||
+|| ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology||
 
 <img align="right" width="33%" src="/assets/knott.png"> 
 ####Contact Information:
