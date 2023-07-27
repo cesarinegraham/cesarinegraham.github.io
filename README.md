@@ -4,7 +4,6 @@
 
 <br />
 ## Education
-
 |-------|-------|
 | | |
 | B.S. Astrophysics with Mathematics Minor (3.94 GPA)| Michigan State University (_May 2024_)|
