@@ -24,7 +24,7 @@
 <br />
 ## Current Projects
 
-<img align="right" width="33%" src=(/assets/knott.png)> 
+<img align="right" width="33%" src="/assets/knott.png"> 
 
 |------|-------|
 | Exotic Manifolds and their Connection to Superstring Theory| ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png)|
