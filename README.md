@@ -1,5 +1,6 @@
 # Astrophysicist and Mathematician
 #### Technical Skills: Python, MATLAB, Java, LaTeX, HTML, CSS
+#### Engineering Software: Autodesk Inventor, CATIA
 
 <br />
 ## Education
