@@ -31,4 +31,8 @@
 | ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology|
 
 <img align="right" width="33%" src="/assets/knott.png"> 
+####Contact Information:
+Email: grahamce@msu.edu
+
+
 
