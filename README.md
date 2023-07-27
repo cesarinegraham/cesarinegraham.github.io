@@ -25,7 +25,7 @@
 ## Current Projects
 
 <span>
-  style="display:block;text-align:center">![Test Automation](/assets/knott.png))
+  style="display:block;text-align:right">![Test Automation](/assets/knott.png))
 </span>
 
 |------|-------|
