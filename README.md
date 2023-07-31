@@ -30,6 +30,7 @@
 
 |-------|-------|
 | | |
+| ![Earth](/assets/earth.jpg) | Rendering a Multi-Dimensional View of Habitability in Extreme Environments with Desulfovibrio Microbes |
 | ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | Exotic Manifolds and their Connection to Superstring Theory [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
 | ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology|
 
@@ -37,7 +38,5 @@
 #### Contact Information:
 Email: grahamce@msu.edu
 
-Instagram: <a href="https://instagram.com/skating_galaxies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skating_galaxies" height="30" width="40" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarinegraham&show_icons=true&locale=en" alt="cesarinegraham" /></p>
 
