@@ -35,7 +35,4 @@
 <img align="right" width="33%" src="/assets/knott.png"> 
 #### Contact Information:
 Email: grahamce@msu.edu
-
-<p align="left">
-<a href="https://instagram.com/skating_galaxies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skating_galaxies" height="30" width="40" /></a>
-</p>
+Instagram: <a href="https://instagram.com/skating_galaxies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skating_galaxies" height="30" width="40" /></a>
