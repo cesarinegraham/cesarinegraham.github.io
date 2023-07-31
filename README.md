@@ -3,6 +3,8 @@
 #### Technical Skills: Python, MATLAB, Java, LaTeX, HTML, CSS
 #### Engineering Software: Autodesk Inventor, CATIA
 
+You can download my resume [here](/assets/Graham_Cesarine_Resume.pdf)!
+
 <br />
 ## Education
 
