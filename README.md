@@ -38,3 +38,6 @@
 Email: grahamce@msu.edu
 
 Instagram: <a href="https://instagram.com/skating_galaxies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skating_galaxies" height="30" width="40" /></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarinegraham&show_icons=true&locale=en" alt="cesarinegraham" /></p>
+
