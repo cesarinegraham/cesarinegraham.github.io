@@ -3,8 +3,6 @@
 #### Technical Skills: Python, MATLAB, Java, LaTeX, HTML, CSS
 #### Engineering Software: Autodesk Inventor, CATIA
 
-
-<br />
 ## Education
 
 - B.S. Astrophysics with Mathematics Minor (3.94 GPA), **Michigan State University**, (_May 2024_)
