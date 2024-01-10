@@ -5,7 +5,7 @@
 
 ## Education
 
-- B.S. Astrophysics with Mathematics Minor (3.94 GPA), **Michigan State University**, (_May 2024_)
+- B.S. Astrophysics with Mathematics Minor (3.875 GPA), **Michigan State University**, (_May 2024_)
 - HS Diploma Advanced with Honors Distinction (4.47 GPA), **Denbigh HS and Aviation Academy**, (_June 2020_)
 
 <br />
@@ -33,7 +33,7 @@
 
 <img align="right" width="33%" src="/assets/knott.png"> 
 #### Contact Information:
-Email: grahamce@msu.edu
+Email: grahamcesarine@gmail.com
 
 
 
