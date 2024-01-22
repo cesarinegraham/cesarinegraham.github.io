@@ -27,7 +27,7 @@
 
 |-------|-------|
 | | |
-| ![Earth](/assets/earth.png) | Rendering a Multi-Dimensional View of Habitability in Extreme Environments with Desulfovibrio Microbes |
+| ![Earth](/assets/earth.png) | Rendering a Multi-Dimensional View of Habitability in Extreme Environments with Microbiology |
 | ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | Exotic Manifolds and their Connection to Superstring Theory [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
 | ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology|
 
