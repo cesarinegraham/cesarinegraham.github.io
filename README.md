@@ -30,7 +30,8 @@
 <br />
 ## Work Experiences
 **Astrobiology Research Assistant (_October 2022 - Present_)**
- - Research assistant in Astrobiology under [Dr. Matthew Schrenk](https://www.mattschrenklab.com). 
+ - Research assistant in Astrobiology under [Dr. Matthew Schrenk](https://www.mattschrenklab.com).
+ - A research manuscript is currently under final revision for publication. This research has been presented at many places, including [AAS' 243 Conference](https://aas.org/meetings/aas243), [MSU's 3rd DISC Conference](https://sites.google.com/msu.edu/3rddisc2023/home), and [MSU's 7th EES Symposium](https://ees.natsci.msu.edu/events/ees-student-research-symposium/7th-annual-ees-student-research-symposium/7th-annual-ees-student-research-symposium.aspx).
 
 **MSU Summer Topology Internship (_May 2023 - July 2023_)**
  - Presenting mathematical research in various methods and producing [review articles](https://github.com/cesarinegraham/Topology-Research-Results/blob/87f9d55fd60bced16efb3ff62952183609f8e914/Exotic_Manifolds_Research_Paper.pdf) that connect Topology to Theoretical Physics.
@@ -49,7 +50,7 @@
 
 |-------|-------|
 | | |
-| ![Earth](/assets/earth.png) | _How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth_. <br /> Manuscript is currently under final revision for publication. This research has been presented at many places, including AAS' 243 Conference, MSU's 3rd DISC Conference, and MSU's 7th EES Symposium. |
+| ![Earth](/assets/earth.png) | _How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth_. <br /> Manuscript is currently under final revision for publication. |
 | ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | _Exotic Manifolds and their Connection to Superstring Theory_. [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
 | ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology.|
 
