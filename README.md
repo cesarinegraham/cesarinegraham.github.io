@@ -33,10 +33,16 @@
 <br />
 
 ## Current Projects
-|  |  |
-| --- | --- |
-| ![Earth](assets/earth.png) | _How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth_. <br /> Manuscript is currently under final revision for publication. |
-| ![Calabi-Yau Manifolds](assets/Calabi-Yau.png) | _Exotic Manifolds and their Connection to Superstring Theory_. [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
+<table>
+  <tr>
+    <td><img src="assets/earth.png" alt="Earth"></td>
+    <td><em>How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth.</em><br>Manuscript is currently under final revision for publication.</td>
+  </tr>
+  <tr>
+    <td><img src="assets/Calabi-Yau.png" alt="Calabi-Yau Manifolds"></td>
+    <td><em>Exotic Manifolds and their Connection to Superstring Theory.</em> <a href="https://github.com/cesarinegraham/Topology-Research-Results/">See working paper and presentation here.</a></td>
+  </tr>
+</table>
 
 
 <br />
