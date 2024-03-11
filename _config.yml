@@ -1,9 +1,10 @@
 title: Cesarine Graham
 logo: /assets/headshot.jpg
 description: Hello! I'm Cesarine Graham (Sez-A-Reen), formally known as Cesarine Aylsworth, and I am interested in theoretical physics / computational physics. In my free time, I am usually outdoors hiking or fishing, but I also enjoy powerlifting, yoga, and reading.
-Resume: "graham_resume.pdf"
 
-#logo: /assets/knott.png
+# --- List of links in the navigation bar --- #
+navbar-links:
+  Resume: "https://github.com/cesarinegraham/assets/graham_resume.pdf"
 
 show_downloads: false
 theme: jekyll-theme-minimal
