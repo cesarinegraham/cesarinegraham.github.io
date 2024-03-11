@@ -8,6 +8,7 @@
 ## Education
 
 - B.S. Astrophysics with Mathematics Minor (3.875 GPA), **Michigan State University**, (_May 2024_)
+- Dean's Research Scholar (Fall 2023 - Spring 2024)
 - HS Diploma Advanced with Honors Distinction (4.47 GPA), **Denbigh HS and Aviation Academy**, (_June 2020_)
 
 <br />
@@ -32,7 +33,7 @@
 
 |-------|-------|
 | | |
-| ![Earth](/assets/earth.png) | "How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth."  |
+| ![Earth](/assets/earth.png) | "How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth." Manuscript is currently under final revision for publication. This research has been presented at many places, including AAS' 243 Conference, MSU's 3rd DISC Conference, and MSU's 7th EES Symposium. |
 | ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | Exotic Manifolds and their Connection to Superstring Theory [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
 | ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology|
 
