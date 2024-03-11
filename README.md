@@ -33,10 +33,6 @@
 <br />
 
 ## Current Projects
-|-------|-------|
-| | |
-| ![Earth](/assets/earth.png) | _How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth_. <br /> Manuscript is currently under final revision for publication. |
-| ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | _Exotic Manifolds and their Connection to Superstring Theory_. [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
 
 <br />
 
@@ -59,7 +55,6 @@
 
 <br />
 
-<img align="right" width="33%" src="/assets/knott.png"> 
 #### Contact Information:
 Email: grahamcesarine@gmail.com
 
