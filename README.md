@@ -12,6 +12,8 @@
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </a>
 </div>
 
+You can download my resume [here](https://github.com/cesarinegraham/assets/graham_resume.pdf)
+
 <br />
 
 ## Skills
@@ -24,10 +26,20 @@
 
 ## Education
 - B.S. Astrophysics with Mathematics Minor (3.875 GPA), **Michigan State University**, (_May 2024_)
-- Dean's Research Scholar (Fall 2023 - Spring 2024)
-- HS Diploma Advanced with Honors Distinction (4.47 GPA), **Denbigh HS and Aviation Academy**, (_June 2020_)
+- HS Advanced Diploma, Honors Distinction (4.47 GPA), **Denbigh HS and Aviation Academy**, (_June 2020_)
 
 <br />
+
+## Current Projects
+
+|-------|-------|
+| | |
+| ![Earth](/assets/earth.png) | _How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth_. <br /> Manuscript is currently under final revision for publication. |
+| ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | _Exotic Manifolds and their Connection to Superstring Theory_. [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
+| ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology.|
+
+<br />
+
 ## Work Experiences
 **Astrobiology Research Assistant (_October 2022 - Present_)**
  - Research assistant and Laboratory Technician in Astrobiology under [Dr. Matthew Schrenk](https://www.mattschrenklab.com).
@@ -46,13 +58,6 @@
  - Performing as a lead researcher in the Deep Water Culture (DWC) Project and co-researcher in the Aquaponic Project. The food grown from each project was donated to a local food shelter each harvest. Sponsered by funds from Embry-Riddle Aeronautical University, Daytona Beach Campus, FL. The team has since changed their name to _Project HOME_, as they have changed their goals to providing future astronauts ways to grow a complete diet on foreign planets. Their current research can be found [here](https://www.linkedin.com/in/project-home/).
 
 <br />
-## Current Projects
-
-|-------|-------|
-| | |
-| ![Earth](/assets/earth.png) | _How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth_. <br /> Manuscript is currently under final revision for publication. |
-| ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | _Exotic Manifolds and their Connection to Superstring Theory_. [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
-| ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology.|
 
 <img align="right" width="33%" src="/assets/knott.png"> 
 #### Contact Information:
