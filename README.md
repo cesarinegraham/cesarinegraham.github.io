@@ -16,8 +16,6 @@
 
 #### You can download my resume [here](https://github.com/cesarinegraham/assets/graham_resume.pdf)
 
-<br />
-
 ## Skills
 - **Technical Skills**: Python, MATLAB, Java, LaTeX, HTML, CSS
 - **Engineering Software**: Autodesk Inventor, CATIA
@@ -38,7 +36,6 @@
 | | |
 | ![Earth](/assets/earth.png) | _How a Nuanced Model of Habitability Can Inform the Search for Life Beyond Earth_. <br /> Manuscript is currently under final revision for publication. |
 | ![Calabi-Yau Manifolds](/assets/Calabi-Yau.png) | _Exotic Manifolds and their Connection to Superstring Theory_. [See working paper and presentation here.](https://github.com/cesarinegraham/Topology-Research-Results/)|
-| ![Knot Theory](/assets/knottheory.png) | Kirby Calculus and Knot Theory and their Connections to Concepts in General Relativity and Cosmology.|
 
 <br />
 
