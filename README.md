@@ -6,14 +6,12 @@
 #### Laboratory Skills:  Field Sampling, Microbial Cultivation, Fluorescence Microscopy, Safety Compliance, SOP Developments.
 
 ## Education
-
 - B.S. Astrophysics with Mathematics Minor (3.875 GPA), **Michigan State University**, (_May 2024_)
 - Dean's Research Scholar (Fall 2023 - Spring 2024)
 - HS Diploma Advanced with Honors Distinction (4.47 GPA), **Denbigh HS and Aviation Academy**, (_June 2020_)
 
 <br />
 ## Work Experiences
-
 **Astrobiology Research Assistant (_October 2022 - Present_)**
  - Research assistant in Astrobiology under [Dr. Matthew Schrenk](https://www.mattschrenklab.com). 
 
