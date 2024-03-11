@@ -30,7 +30,7 @@
 <br />
 ## Work Experiences
 **Astrobiology Research Assistant (_October 2022 - Present_)**
- - Research assistant in Astrobiology under [Dr. Matthew Schrenk](https://www.mattschrenklab.com).
+ - Research assistant and Laboratory Technician in Astrobiology under [Dr. Matthew Schrenk](https://www.mattschrenklab.com).
  - A research manuscript is currently under final revision for publication. This research has been presented at many places, including [AAS' 243 Conference](https://aas.org/meetings/aas243), [MSU's 3rd DISC Conference](https://sites.google.com/msu.edu/3rddisc2023/home), and [MSU's 7th EES Symposium](https://ees.natsci.msu.edu/events/ees-student-research-symposium/7th-annual-ees-student-research-symposium/7th-annual-ees-student-research-symposium.aspx).
 
 **MSU Summer Topology Internship (_May 2023 - July 2023_)**
