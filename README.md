@@ -16,6 +16,8 @@
 
 #### You can download my resume [here](https://github.com/cesarinegraham/assets/graham_resume.pdf)
 
+<br>
+
 ## Skills
 - **Technical Skills**: Python, MATLAB, Java, LaTeX, HTML, CSS
 - **Engineering Software**: Autodesk Inventor, CATIA
