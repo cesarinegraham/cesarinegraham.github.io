@@ -42,7 +42,7 @@
  - Leading in-class activities, tutoring during office hours, and grading assignments for all sections of College Algebra II, as well as for some Physics 1 courses.
 
 **Society for Hydroponic and Aquaponic Systems (_September 2020 - April 2022_)**
- - Performing as a lead researcher in the Deep Water Culture (DWC) Project and co-researcher in the Aquaponic Project. The food grown from each project was donated to a local food shelter each harvest. Sponsered by funds from Embry-Riddle Aeronautical University, Daytona Beach Campus, FL.
+ - Performing as a lead researcher in the Deep Water Culture (DWC) Project and co-researcher in the Aquaponic Project. The food grown from each project was donated to a local food shelter each harvest. Sponsered by funds from Embry-Riddle Aeronautical University, Daytona Beach Campus, FL. The team has since changed their name to _Project HOME_, as they have changed their goals to providing future astronauts ways to grow a complete diet on foreign planets. Their current research can be found [here](https://www.linkedin.com/in/project-home/).
 
 <br />
 ## Current Projects
