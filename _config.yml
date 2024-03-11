@@ -2,46 +2,5 @@ title: Cesarine Graham
 logo: /assets/headshot.jpg
 description: Hello! I'm Cesarine Graham (Sez-A-Reen), formally known as Cesarine Aylsworth, and I am interested in theoretical physics / computational physics. In my free time, I am usually outdoors hiking or fishing, but I also enjoy powerlifting, yoga, and reading.
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 100 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-  - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-author:
-  name   : "Cesarine Graham"
-  avatar : "/assets/headshot.jpg"
-  bio    : "I'm Cesarine Graham (Sez-A-Reen), formally known as Cesarine Aylsworth, and I am interested in theoretical physics / computational physics. In my free time, I am usually outdoors hiking or fishing, but I also enjoy powerlifting, yoga, and reading.."
-  links:
-    - label: "Resume"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/cesarinegraham/assets/graham_resume.pdf"
-
 show_downloads: true
 theme: jekyll-theme-minimal
