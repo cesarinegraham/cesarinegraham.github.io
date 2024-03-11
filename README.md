@@ -12,6 +12,8 @@
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </a>
 </div>
 
+<br />
+
 #### Technical Skills: Python, MATLAB, Java, LaTeX, HTML, CSS
 #### Engineering Software: Autodesk Inventor, CATIA
 #### Data Analytics: Regression, Data visualization, Statistical Analysis, Predictive Modeling.
