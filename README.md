@@ -12,6 +12,8 @@
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </a>
 </div>
 
+<br />
+
 You can download my resume [here](https://github.com/cesarinegraham/assets/graham_resume.pdf)
 
 <br />
