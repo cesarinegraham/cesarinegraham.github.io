@@ -56,7 +56,7 @@
 -	Performing precise cleaning and contamination control processes for aerospace components, ensuring they meet strict cleanliness standards required for space agency contracts.
 -	Conducting cleanliness certification testing and maintaining meticulous documentation to verify compliance with industry and client-specific requirements.
 
-**Astrobiology Research Assistant (_October 2022 - June 2024)**
+**Astrobiology Research Assistant (_October 2022 - June 2024_)**
  - Research assistant and Laboratory Technician under [Dr. Matthew Schrenk](https://www.mattschrenklab.com).
 -	Integrating physics, mathematics, and computer science to model more accurate microbial habitability charts.
 -	Preparing media, cultures, and slides while performing sterilization procedures, such as autoclaving and acid baths, to maintain aseptic conditions in the microbiology lab. Also developed several SOPs to sustain these conditions. 
