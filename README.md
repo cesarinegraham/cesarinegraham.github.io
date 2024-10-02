@@ -79,7 +79,7 @@
 <img align="right" width="33%" src="/assets/knott.png"> 
 #### Contact Information:
 
-Email: grahamcesarine@gmail.com //
+Email: grahamcesarine@gmail.com <br />
 LinkedIn: www.linkedin.com/in/cesarine-graham
 
 
