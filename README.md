@@ -19,10 +19,14 @@
 <br>
 
 ## Skills
-- **Technical Skills**: Python, MATLAB, Java, LaTeX, HTML, CSS
-- **Engineering Software**: Autodesk Inventor, CATIA
+- **Programming Software**: Java, MATLAB, Python, C++, CSS, HTML, some R
+- **Engineering Software**: CATIA, AutoDesk Inventor, various PASCO interfaces
+- **Languages**: Spanish (Conversational), ESL (Basic)
 - **Data Analytics**: Regression, Data visualization, Statistical Analysis, Predictive Modeling.
-- **Laboratory Skills**:  Field Sampling, Microbial Cultivation, Fluorescence Microscopy, Safety Compliance, SOP Developments.
+- **Public Outreach**: Multi-media Presentations (i.e. Science on a Sphere, Hyperwalls, etc.)
+- **Laboratory**: Microscopy, Field Sampling, Microbial Cultivation, SOP Developments.
+
+
 
 <br />
 
@@ -48,8 +52,14 @@
 <br />
 
 ## Work Experiences
-**Astrobiology Research Assistant (_October 2022 - Present_)**
- - Research assistant and Laboratory Technician in Astrobiology under [Dr. Matthew Schrenk](https://www.mattschrenklab.com).
+**Laboratory Technician | Astro Pak Corporation (_August 2024 - Present_)**
+-	Performing precise cleaning and contamination control processes for aerospace components, ensuring they meet strict cleanliness standards required for space agency contracts.
+-	Conducting cleanliness certification testing and maintaining meticulous documentation to verify compliance with industry and client-specific requirements.
+
+**Astrobiology Research Assistant (_October 2022 - June 2024)**
+ - Research assistant and Laboratory Technician under [Dr. Matthew Schrenk](https://www.mattschrenklab.com).
+-	Integrating physics, mathematics, and computer science to model more accurate microbial habitability charts.
+-	Preparing media, cultures, and slides while performing sterilization procedures, such as autoclaving and acid baths, to maintain aseptic conditions in the microbiology lab. Also developed several SOPs to sustain these conditions. 
  - A research manuscript is currently under final revision for publication. This research has been presented at many places, including [AAS' 243 Conference](https://aas.org/meetings/aas243), [MSU's 3rd DISC Conference](https://sites.google.com/msu.edu/3rddisc2023/home), and [MSU's 7th EES Symposium](https://ees.natsci.msu.edu/events/ees-student-research-symposium/7th-annual-ees-student-research-symposium/7th-annual-ees-student-research-symposium.aspx).
 
 **MSU Summer Topology Internship (_May 2023 - July 2023_)**
