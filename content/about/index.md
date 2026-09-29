@@ -4,8 +4,7 @@ date: 2026-09-24
 hidemeta: true
 description: "headshot for Césarine Graham, Graduate Student of Physics and Planetary Sciences at the University of Central Florida."
 ---
-
-![Césarine Graham](/img/headshot.jpg){:width="300"}
+<img src="/img/headshot.jpg" alt="Césarine Graham" width="300">
 
 I am a graduate student in the [Department of Physics](https://sciences.ucf.edu/physics/) and [Planetary Sciences](https://planets.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). 
 
