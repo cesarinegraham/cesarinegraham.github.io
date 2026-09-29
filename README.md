@@ -1,6 +1,6 @@
 # cesarinegraham.github.io 🚀
 
-This is the source repository for [cesarinegraham.github.io](https://cesarinegraham.github.io/cgraham.github.io/), the academic website of Césarine Graham. The site is built with [Hugo](https://gohugo.io/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme and cloned from [Dr. Danny Callabero](https://github.com/dannycab/dannycab.github.io).
+This is the source repository for [cesarinegraham.github.io](https://cesarinegraham.github.io/), the academic website of Césarine Graham. The site is built with [Hugo](https://gohugo.io/) using the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme and cloned from [Dr. Danny Callabero](https://github.com/dannycab/dannycab.github.io).
 
 ## About 👋
 
