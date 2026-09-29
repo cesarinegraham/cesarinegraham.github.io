@@ -14,7 +14,7 @@ University of Central Florida
 
 
 
-📄 full cv [(pdf)](cgraham_cv.pdf)<br>📄 publications [(html)](/pubs/)
+📄 full cv [(pdf)](/pdf/cgraham_cv.pdf)<br>📄 publications [(html)](/pubs/)
 
 ## education
 
