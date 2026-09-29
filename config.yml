@@ -61,7 +61,7 @@ params:
     title: césarine graham
     subtitle: |
       <ul>
-      <b>im a graduate student in the <a href="https://sciences.ucf.edu/physics/" target="_blank" rel="noopener" aria-label="department of physics and planetary sciences(opens in new tab)"><u>department of physics and planetary sciences</u></a> at the university of central florida. </b>
+      <b>im a graduate student in the <a href="https://sciences.ucf.edu/physics/" target="_blank" rel="noopener" aria-label="department of physics (opens in new tab)"><u>department of physics</u></a> and <a href="https://planets.ucf.edu/" target="_blank" rel="noopener" aria-label="planetary sciences (opens in new tab)"><u>planetary sciences</u></a> at the university of central florida. </b>
     
     imageUrl: "/img/headshot.png"
     imageWidth: 160
