@@ -65,7 +65,7 @@ params:
     
     imageUrl: "/img/headshot.jpg"
     imageWidth: 160
-    imageHeight: 320
+    imageHeight: 160
     buttons:
       - name: about
         url: about/
