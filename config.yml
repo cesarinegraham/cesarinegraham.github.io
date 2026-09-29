@@ -28,9 +28,6 @@ menu:
     - name: pubs
       url: pubs/
       weight: 4.5
-    - name: teaching
-      url: teaching/
-      weight: 5
 
 params:
   description: "This website hosts Césarine Graham's research papers, current work, curriculum vitae, and contact information."
