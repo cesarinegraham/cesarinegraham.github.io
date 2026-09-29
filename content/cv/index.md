@@ -30,26 +30,26 @@ University of Central Florida
 ## professional experience
 
 -   2024 -- 2025, Cleanroom Laboratory Technician\
-    Astro Pak Corporation, Titusville, FL.
+    [Astro Pak Corporation](https://astropak.com/), Titusville, FL.
 
 -   2018 -- 2022, Member and Co-Organizer\
-    NASA HUNCH Organization, Aviation Academy, Newport News, VA.
+    [NASA HUNCH](https://nasahunch.com/), Aviation Academy, Newport News, VA.
 
 ## academic experience
 
--   2025 -- Present, Student Researcher, Department of Physics and Planetary Sciences,
+-   2025 -- Present, *Student Researcher*, Department of Physics and Planetary Sciences,
     University of Central Florida
 
--   2022 -- 2024, Student Researcher and Laboratory Technician,
+-   2022 -- 2024, *Student Researcher & Laboratory Technician*,
     Department of Natural Sciences, Michigan State University
 
--   2023 -- Topology Research Intern, Department of Mathematics, Michigan State University
+-   2023 -- *Topology Research Intern*, Department of Mathematics, Michigan State University
 
--   2022 -- 2023, Teaching Assistant, Department of Mathematics, Michigan State University
+-   2022 -- 2023, *Teaching Assistant*, Department of Mathematics, Michigan State University
 
--   2021 -- 2022, Teaching Assistant, Department of Physics, Embry-Riddle Aeronautical University
+-   2021 -- 2022, *Teaching Assistant*, Department of Physics, Embry-Riddle Aeronautical University
 
--   2020 -- 2022, Researcher, Society for Hydroponic and Aquaponic Systems, Embry-Riddle Aeronautical University
+-   2020 -- 2022, *Researcher*, Society for Hydroponic and Aquaponic Systems ([Project HOME](https://commons.erau.edu/beyond/vol4/iss1/5/)), Embry-Riddle Aeronautical University
 
 ## awards and honors
 
@@ -61,13 +61,12 @@ University of Central Florida
 
 -   2024 -- Michigan State University [U.U.R.A.F.](https://urca.msu.edu/forums/uuraf-2024) First Place Award.
 
--   2023 -- Pui Kei Wong Endowed Scholarship\
-    [\[PDF\]](https://natsci.msu.edu/_assets/files/students/current/undergraduate/2023-2024-scholarship-recipients.pdf)
+-   2023 -- Pui Kei Wong Endowed Scholarship. [PDF.](https://natsci.msu.edu/_assets/files/students/current/undergraduate/2023-2024-scholarship-recipients.pdf) \
     *"$4,000 scholarship for demonstration of academic and research success as a Junior currently enrolled in a Bachelors of Science."*
 
 -   2023 -- Michigan State University Hampton Roads Spartans Scholarship Fund
 
--   2022,2023,2024 -- Michigan State University Dean's List.
+-   2022, 2023, 2024 -- Michigan State University Dean's List.
 
 -   2020, 2021, 2022 -- Gear Up Virginia (GUV) Scholarship\
     *"$2,500 semesterly scholarship, renewed for two years."*
