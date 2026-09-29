@@ -63,7 +63,7 @@ params:
       <ul>
       <b>im a graduate student in the <a href="https://sciences.ucf.edu/physics/" target="_blank" rel="noopener" aria-label="department of physics and planetary sciences(opens in new tab)"><u>department of physics and planetary sciences</u></a> at the university of central florida. </b>
     
-    imageUrl: "static/img/headshot.png"
+    imageUrl: "/img/headshot.png"
     imageWidth: 160
     imageHeight: 160
     buttons:
