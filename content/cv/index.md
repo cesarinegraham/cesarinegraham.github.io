@@ -10,7 +10,7 @@ Department of Physics & Planetary Sciences\
 University of Central Florida
 
 📪 <ce970069@ucf.edu>\
-💻 [cgraham.github.io](https://cesarinegraham.github.io/cgraham.github.io/cv/))
+💻 [cgraham.github.io](https://cesarinegraham.github.io/))
 
 
 
