@@ -10,4 +10,4 @@ I am a graduate student in the [Department of Physics](https://sciences.ucf.edu/
 
 I earned my B.S. in Astrophysics with a minor in Mathematics from [Michigan State University](https://msu.edu/) in 2024. During my time at MSU, I worked in [Dr. Matthew Schrenk’s research lab](https://www.mattschrenklab.com/)- where I worked on creating more accurate microbial habitability charts for icy moons such as Europa and Enceladus. 
 
-Currently, I generate geomorphological maps and perform icy analog experiments to characterize the influence of volatiles on various surfaces such as Mars, Ceres, and Vesta.
+Currently, I generate geomorphological maps for features on Mars and perform icy analog experiments to characterize the influence of volatiles on places such as Mars, Ceres, Vesta, and possibly the Moon!
