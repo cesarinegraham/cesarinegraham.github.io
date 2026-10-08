@@ -16,9 +16,6 @@ menu:
     - name: about
       url: about/
       weight: 1
-    - name: news
-      url: posts/
-      weight: 2
     - name: cv
       url: cv/
       weight: 3
@@ -66,8 +63,6 @@ params:
     buttons:
       - name: about
         url: about/
-      - name: news
-        url: posts/
       - name: cv
         url: cv/
       - name: research
@@ -103,7 +98,7 @@ markup:
       unsafe: true
   highlight:
     guessSyntax: true
-    style: autumn
+    style: catppuccin-mocha
   tableOfContents:
     endLevel: 2
     ordered: false
