@@ -53,20 +53,23 @@ University of Central Florida
 
 ## awards and honors
 
--   2025 -- Univeristy of Central Florida Trustees Doctoral Fellowship,\
-    *"For multi-year support to the most nominated applicants to the institution. Offers $25,000 per year for four years."*
+-   2026 -- University of Central Florida Graduate Presentation Fellowship\
+    *"$500 funding for enrolled master’s, specialist, and doctoral students to share their first-author research at a professional meeting."*
 
--   2023, 2024 -- Michigan State University Dean’s Research Scholar,\
+-   2025 -- Univeristy of Central Florida Trustees Doctoral Fellowship\
+    *"$25,000 per year for four year to the most nominated and qualified applicants to the graduate institution."*
+
+-   2023, 2024 -- Michigan State University Dean’s Research Scholar and [Media Representative](https://www.instagram.com/p/C2S0Lh1sJ7D/)\
     *"$1,500 scholarship, twice offered, for demonstration of excellent research in the Department of Natural Science."*
 
--   2024 -- Michigan State University [U.U.R.A.F.](https://urca.msu.edu/forums/uuraf-2024) First Place Award.
+-   2024 -- Michigan State University [U.U.R.A.F.](https://urca.msu.edu/forums/uuraf-2024) First Place Award
 
--   2023 -- Pui Kei Wong Endowed Scholarship. [PDF.](https://natsci.msu.edu/_assets/files/students/current/undergraduate/2023-2024-scholarship-recipients.pdf) \
+-   2023 -- Pui Kei Wong Endowed Scholarship. [(PDF)](https://natsci.msu.edu/_assets/files/students/current/undergraduate/2023-2024-scholarship-recipients.pdf) \
     *"$4,000 scholarship for demonstration of academic and research success as a Junior currently enrolled in a Bachelors of Science."*
 
 -   2023 -- Michigan State University Hampton Roads Spartans Scholarship Fund
 
--   2022, 2023, 2024 -- Michigan State University Dean's List.
+-   2022, 2023, 2024 -- Michigan State University Dean's List
 
 -   2020, 2021, 2022 -- Gear Up Virginia (GUV) Scholarship\
     *"$2,500 semesterly scholarship, renewed for two years."*
@@ -81,4 +84,4 @@ University of Central Florida
 
 -   2018 -- National Academy of Future Scientists and Technologists Award of Excellence
 
--   2013 -- President Obama’s Education Award
+-   2013 -- [President Obama’s Education Award](https://www.naesp.org/resource/recognize-student-excellence-with-the-presidents-education-awards/)
