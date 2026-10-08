@@ -9,7 +9,10 @@ title: publications
 🎓 [**google
 scholar**](https://scholar.google.com/citations?hl=en&user=KdrjfscAAAAJ)
 
-## conference abstracts
+## publications & data
+coming soon!
+
+## abstracts & conference proceedings
 
 1. Graham, C., Mc Keown, L.E., Aye, M., Diniega, S., Hansen, C., Piqueux., S.,
    Portyankina, G., Venkatramn, J. (2026). A Comprehensive Map of Martian Araneiforms
