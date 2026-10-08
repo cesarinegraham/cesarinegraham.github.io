@@ -1,26 +1,19 @@
 ---
 title: "research"
-date: 2025-05-16
+date: 2025-10-08
 hidemeta: true
 ---
 
-I work with [several research groups](#groups) that focus on different aspects of education. I've had the chance to work on a few projects. Here are some [recent ones](#current-projects) and here are some [older ones](#older-projects).  I've given a number of presentations about this work. Here's a sample of some of the [more recent ones](#presentations). My full list of publications is available [here](https://dannycab.github.io/pubs/).
+I work with [several research groups](#groups) that focus on different aspects of planetary science. I've had the chance to work on a few projects. Here are some [recent ones](#current-projects) and here are some [older ones](#older-projects).  I've given a number of presentations about this work. Here's a sample of some of the [more recent ones](#presentations). My full list of publications is available [here](https://cesarinegraham.github.io/pubs/).
 
 ## groups
 
-* [The Physics Education Research Lab (PERL)](https://perl.natsci.msu.edu) conducts a variety of research into students' relationships with physics, how tools and environments shape those relationships, and the conditions that can influence or moderate those relationships. PERL is housed in the [Department of Physics and Astronomy](https://pa.msu.edu/).
-* [The Computational Education Research Lab (CERL)](https://msu-cerl.github.io) conducts research into student learning and engagement in computational and data science and the environments and conditions that shape that learning and participation. CERL is housed in the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/).
-* [The Center for Computing in Science Education (CCSE)](https://www.mn.uio.no/ccse/english/) conducts research into students' learning of computing in science environments, studies the tools and conditions that lead to different forms of learning, and develops text-embedding tools for qualitative research. Research with CCSE is conducted almost exclusively in Norway.
+* [Laboratory Surface Science](https://planets.ucf.edu/research/laboratory-surface-science/) conducts a variety of research to study the physical properties and compositions of the Moon, asteroids, and Mars by combining laboratory measurements and analysis of spacecraft data to address ongoing questions. This includes work within the [Exolith Lab](https://fsi.ucf.edu/exolith-lab/).
+
 
 ## presentations
 
-### colloquia
-
-* [Supporting the integration of computing in physics, now with AI? (2025)](/pdf/talks/2025_CompPhys.pdf)
-* [Supporting the integration of computing in physics (2023)](/pdf/talks/2023_CompPhys.pdf)
-* [Towards a more diverse and equitable graduate physics program (2023)](/pdf/talks/2023_GradEd.pdf)
-
-### other talks
+### talks
 
 * [Supporting the integration of computing in physics (2025)](/pdf/talks/2025_CompPhys_BIRS.pdf) -- Banff International Research Station, Banff, AB
 * [We don’t need AI in science education; we need science education research for AI (2023)](/pdf/talks/2024_AI_UiO.pdf) -- University of Oslo, Oslo, Norway
