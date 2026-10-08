@@ -98,7 +98,7 @@ markup:
       unsafe: true
   highlight:
     guessSyntax: true
-    style: catppuccin-mocha
+    style: paraiso-dark
   tableOfContents:
     endLevel: 2
     ordered: false
