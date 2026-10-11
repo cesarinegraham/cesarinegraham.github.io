@@ -56,7 +56,7 @@ params:
     subtitle: |
       <ul>
       <b>im currently graduate student in the <a href="https://sciences.ucf.edu/physics/" target="_blank" rel="noopener" aria-label="department of physics (opens in new tab)"><u>department of physics</u></a> and <a href="https://planets.ucf.edu/" target="_blank" rel="noopener" aria-label="planetary sciences (opens in new tab)"><u>planetary sciences</u></a> at the university of central florida. </b>
-    
+      <b>hit the links below and lets collaborate! </b>    
     imageUrl: "/img/headshot.jpg"
     imageWidth: 160
     imageHeight: 160
