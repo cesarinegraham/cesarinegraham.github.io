@@ -17,13 +17,13 @@ I work on [several research projects](##current projects) that focus on differen
 ## current projects
 
 **Analyzing Martian araneiforms.**
-<img src="https://github.com/cesarinegraham/cesarinegraham.github.io/blob/main/static/project-images/spiders.jpg" width="50%">
+![Spiders](/project-images/spiders.jpg)
 
 
 ##  
 
 **Analog experiments for pitted terrain found on Mars, Ceres, and Vesta.**
-<img src="https://github.com/cesarinegraham/cesarinegraham.github.io/blob/main/static/project-images/pits.jpg" width="50%">
+![Pitted Terrain](/project-images/pits.jpg)
 
 
 ##
@@ -33,11 +33,11 @@ I work on [several research projects](##current projects) that focus on differen
 ## older projects
 
 **Developing habitability models for extremophiles in icy world spaces.**
-<img src="https://github.com/cesarinegraham/cesarinegraham.github.io/blob/main/static/project-images/PuyDesFolles-BirthdayVent.jpg" width="50%">
+![Hydrothermal Vents](/project-images/PuyDesFolles-BirthdayVent.jpg)
 
 ## 
 
 **Exotic and Calabi-Yau manifold intersections with Superstring theory (Topology internship).**
 [More Info](https://github.com/cesarinegraham/Topology-Research-Results)
-<img src="https://github.com/cesarinegraham/cesarinegraham.github.io/blob/main/static/project-images/CalabiYau5.jpg" width="50%">
+![Calabi-Yau Manifold](/project-images/CalabiYau5.jpg)
 
