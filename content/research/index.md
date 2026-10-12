@@ -16,24 +16,25 @@ I work on [several research projects](##current projects) that focus on differen
 
 ## current projects
 
-### Analyzing Martian araneiforms.
+#### Analyzing Martian araneiforms.
 ![Spiders](/project-images/spiders.jpg)
 
 ##  
 
-### Analog experiments for pitted terrain found on Mars, Ceres, and Vesta. 
+#### Analog experiments for pitted terrain found on Mars, Ceres, and Vesta. 
 ![Pitted Terrain](/project-images/pits.jpg)
 
+##
 ##
 ## 
 
 ## older projects
 
-### Developing habitability models for extremophiles in icy world spaces.
+#### Developing habitability models for extremophiles in icy world spaces.
 ![Hydrothermal vent](/project-images/PuyDesFolles-BirthdayVent.jpg)
 
 ## 
 
-### Exotic and Calabi-Yau manifold intersections with superstring theory (topology internship).
+#### Exotic and Calabi-Yau manifold intersections with Superstring theory (Topology internship).
 [More Info](https://github.com/cesarinegraham/Topology-Research-Results)
 ![CalabiYau](/project-images/CalabiYau5.jpg)
