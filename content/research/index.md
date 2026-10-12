@@ -4,21 +4,15 @@ date: 2025-10-08
 hidemeta: true
 ---
 
-I work with [several research groups](#groups) that focus on different aspects of planetary science. I've had the chance to work on a few projects. Here are some [recent ones](#current-projects) and here are some [older ones](#older-projects).  I've given a number of presentations about this work. Here's a sample of some of the [more recent ones](#presentations). My full list of publications is available [here](https://cesarinegraham.github.io/pubs/).
+I work on [several research projects](##current projects) that focus on different aspects of planetary science within my current [group](##groups). I've had the chance to work on a few projects. Here are some [recent ones](#current-projects) and here are some [older ones](#older-projects).  My full list of publications is available [here](https://cesarinegraham.github.io/pubs/).
 
-## groups
+## current groups
 
-* [Laboratory Surface Science](https://planets.ucf.edu/research/laboratory-surface-science/) conducts a variety of research to study the physical properties and compositions of the Moon, asteroids, and Mars by combining laboratory measurements and analysis of spacecraft data to address ongoing questions. This includes work within the [Exolith Lab](https://fsi.ucf.edu/exolith-lab/).
+* [Laboratory Surface Science Group](https://planets.ucf.edu/research/laboratory-surface-science/) conducts a variety of research to study the physical properties and compositions of the Moon, asteroids, and Mars by combining laboratory measurements and analysis of spacecraft data to address ongoing questions. This includes work within the [Exolith Lab](https://fsi.ucf.edu/exolith-lab/).
+* [FROSTIE Lab](https://www.laurenemckeown.com/frostie), the **F**acility for **R**esearch **O**bserving **S**imulated **T**opography of **I**cy **E**nvironments, researches geomorphological processes and how they shape planetary surfaces and reveal clues about environmental conditions, habitability, and landing-site integrity.
 
 
-## presentations
 
-### talks
-
-* [Supporting the integration of computing in physics (2025)](/pdf/talks/2025_CompPhys_BIRS.pdf) -- Banff International Research Station, Banff, AB
-* [We don’t need AI in science education; we need science education research for AI (2023)](/pdf/talks/2024_AI_UiO.pdf) -- University of Oslo, Oslo, Norway
-* [Teaching Computing into Introductory STEM Courses at Scale (2023)](/pdf/talks/2023_Juleseminar_UiO.pdf) -- University of Oslo, Oslo, Norway
-* [science, education, computing, & community…in ten(ish) minutes (2023)](/pdf/talks/2023_LPF.pdf)-- Michigan State, East Lansing, MI
 
 ## current projects
 
@@ -27,16 +21,6 @@ I work with [several research groups](#groups) that focus on different aspects o
 > Integrating computing into physics education to support improved student learning, agency, and engagement.
 
 ![Computing](/project-images/comp_phys.png)
-
-#### computing in physics education book
-**To be published Summer 2025 by the [Institute of Physics](https://iopscience.iop.org/).**
-
-> An edited volume that focuses on a variety of stories from different persons and places around the world who are teaching computing in their physics courses.
-
-* Instructions for contributing authors can be found [here](../iop-book/).
-
-![Fake Book Cover](/img/IOP/cover.png)
-
 
 ### computational science education research
 > Investigating curriculum, pedagogy, and outcomes in undergraduate computational and data science courses and programs. [More Info](https://msu-cerl.github.io/)
@@ -69,6 +53,8 @@ I work with [several research groups](#groups) that focus on different aspects o
 
 ![Spruce](/project-images/spruce.png)
 
+
+
 ## older projects
 
 ### integrating computing in science across michigan
@@ -80,11 +66,3 @@ I work with [several research groups](#groups) that focus on different aspects o
 > Developing and assessing curricular materials for upper-division physics courses that emphasize active engagement and tutorial-style problem solving. [More Info](https://www.colorado.edu/sei/departments/physics/activities/courses/classical-mechanicsmath-methods-icourse-materials)
 
 ![Mathematics](/project-images/math_in_phys.png)
-
-### students' use of mathematics in physics
-> Understanding the role of mathematics in upper-level undergraduate physics education, and investigating how students use mathematics to learn and do physics. [More Info](https://www.colorado.edu/sei/departments/physics/activities/courses/classical-mechanicsmath-methods-icourse-materials)
-
-![Mathematics](/project-images/acer.png)
-
-### laboratory transformation for life science majors
-> Developing and assessing curricular materials for upper-division physics courses that emphasize active engagement and tutorial-style problem solving.
