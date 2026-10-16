@@ -4,7 +4,7 @@ date: 2025-10-08
 hidemeta: true
 ---
 
-I work on [several research projects](##current projects) that focus on different aspects of planetary science within my current [group](##groups). I've had the chance to work on a few projects. Here are some [recent ones](#current-projects) and here are some [older ones](#older-projects).  My full list of publications is available [here](https://cesarinegraham.github.io/pubs/).
+I work on several research projectsthat focus on different aspects of planetary science within my current group and I've had the chance to work on a few projects. My full list of publications is available [here](https://cesarinegraham.github.io/pubs/).
 
 ## current groups
 
